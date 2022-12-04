@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-DISCLAIMER: As of 12/3, the public Covid API being used from M-Media Group no longer works :(
+DISCLAIMER: As of 12/3/22, it has come to my attention that the public Covid API being used from M-Media Group no longer works :(
 So App will not load any data. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
